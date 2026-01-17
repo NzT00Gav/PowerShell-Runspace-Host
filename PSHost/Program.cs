@@ -41,7 +41,7 @@ namespace PSHost
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("╔══════════════════════════════════════════════════════════╗");
-            Console.WriteLine("║           CUSTOM POWERSHELL HOST v1.0                    ║");
+            Console.WriteLine("║           CUSTOM POWERSHELL HOST v1.0.0                  ║");
             Console.WriteLine("║      System.Management.Automation Implementation         ║");
             Console.WriteLine("╚══════════════════════════════════════════════════════════╝");
             Console.ResetColor();
