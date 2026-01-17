@@ -400,7 +400,6 @@ namespace PSHost
             }
             catch
             {
-                // Intentionally ignored (best-effort cleanup)
             }
         }
     }
