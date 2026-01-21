@@ -11,3 +11,6 @@ It includes a custom console line editor with history navigation and basic built
 - Built-in commands: clear/cls/history/exit/quit (+ tab autocomplete)
 - Output formatting using `Out-String` with safe console width
 - Colored error/warning stream rendering
+
+# Reference
+https://github.com/hiatus/PowerSpace
